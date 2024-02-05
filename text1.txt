@@ -1,0 +1,8 @@
+Hola GIT!
+
+git init = Creamos un repositorio.
+git status = vemos info del repositorio.
+git add archivo = pasar al area de seguimiento.
+git commit -m "un mensaje representativo"
+git push origin master = sube los commits al remoto.
+git pull origin master = trae los nuevos commits al remoto.
